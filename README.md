@@ -2,6 +2,10 @@
 
 ## Deployment
 
+Run following commands in the given order.
+
+`jekyll serve`
+
 `ssh hartmaj@kam.mff.cuni.cz 'rm -rf ~/WWW/*'`
 
 `scp -r _site/* hartmaj@kam.mff.cuni.cz:WWW/`
