@@ -22,7 +22,7 @@ title: Domovská stránka
             Také vedu kroužky programování pro děti v DDM v Újezdě nad Lesy.
         </p>
     </div>
-    <img src="img/profile.jpg" style="width:30%;height:30%;border-radius: 20%;">
+    <img src="/img/profile.jpg" style="width:30%;height:30%;border-radius: 20%;">
 </div>
 
 
