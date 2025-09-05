@@ -3,7 +3,7 @@
     <a href="/" {% if page.url == "/" %} class="active" {% endif %}> {{ homepage.title }} </a>
     {% for iter_page in site.pages %}
         {% if iter_page.url != "/" and iter_page.in-sections == true%}
-            <a href="{{ iter_page.url }}" {% if iter_page.url == page.url%} class="active" {% endif %}> {{ iter_page.title }} </a>
+            <a href="{{ iter_page.url }}" {% if iter_page.url == page.url %} class="active" {% endif %}> {{ iter_page.title }} </a>
         {% endif %}
     {% endfor %}
 </nav>
