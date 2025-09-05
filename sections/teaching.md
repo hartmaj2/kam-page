@@ -8,5 +8,5 @@ in-sections: true
 
 ## Zimní semestr 2025/2026
 
-- cvičení [Diskrétní matematika](/teaching/2526/dm.html)
+- cvičení [Diskrétní matematika](/teaching/2526/dm/about.html)
 

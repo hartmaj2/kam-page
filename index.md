@@ -13,7 +13,7 @@ title: Domovská stránka
             Jsem studentem prvního ročníku magisterského oboru Diskrétní modely a algoritmy. 
         </p>
         <p>
-            V zimním semestru budu také vyučovat cvičení z <a href="/teaching/2526/dm.html"> diskrétní matematiky</a>.
+            V zimním semestru budu také vyučovat cvičení z <a href="/teaching/2526/dm/about.html"> diskrétní matematiky</a>.
         </p>
         <p>
             Ve volném čase se věnuji lezení jak na laně, tak i na boulderu. Kromě toho rád plavu, cvičím a běhám.
