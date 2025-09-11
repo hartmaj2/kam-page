@@ -17,6 +17,8 @@ Na získání zápočtu je potřeba celkem 100 bodů. Body bude možné získat 
 
 Bude zadáno celkem 10 domácích úkolů po 5 bodech. Termín odevzdání bude do začátku dalšího cvičení. Domácí úkoly prosím odevzdávejte prostřednictvím poštovní sovy, kde také po cvičení najdete jejich zadání.
 
+O domácích úkolech můžete diskutovat s ostatními, ale své výsledné řešení musíte zformulovat samostatně vlastními slovy. Rozhodně mě prosím nenechávejte opravovat "vaše" řešení vygenerovaná umělou inteligencí, je to zbytečná ztráta jak mého, tak i vašeho času.
+
 ### Malé písemky
 
 Kromě domácích úkolů budeme na každém cvičení psát malou písemku za až 10 bodů. Celkem tedy bude možné získat 110 bodů z písemek.
@@ -43,5 +45,7 @@ Pokud budete mít alespoň 80 bodů a stále vám do zápočtu budou nějaké bo
 
 ## Užitečné odkazy
 
-- Přednášející: [Ondřej Pangrác](https://iuuk.mff.cuni.cz/~pangrac/)
-- [Sbírka pěkných úloh](http://matematika.reseneulohy.cz/cs/matematika/kombinatorika) (hodí se jako trénink na zkoušku) 
+- Stránky přednášejícího [Ondřeje Pangráce](https://iuuk.mff.cuni.cz/~pangrac/)
+- [Sbírka pěkných úloh](http://matematika.reseneulohy.cz/cs/matematika/kombinatorika) (hodí se jako trénink na zkoušku)
+- [Myšlenková mapa](https://orgpad.info/s/V1BG44_Qy4l) probíraných témat vytvořená v OrgPadu
+- [Videozáznamy](https://mj.ucw.cz/vyuka/2223/dm/) z nádherné přednášky Martina Mareše z let 22/23
