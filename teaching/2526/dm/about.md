@@ -11,17 +11,22 @@ Zadání domácích úkolů najdete v [poštovní sově](https://owl.mff.cuni.cz
 
 ## Podmínky k zápočtu
 
-Na získání zápočtu je potřeba celkem 100 bodů. Body bude možné získat z písemek a domácích úkolů.
-
-### Domácí úkoly
-
-Bude zadáno celkem 10 domácích úkolů po 5 bodech. Termín odevzdání bude do začátku dalšího cvičení. Domácí úkoly prosím odevzdávejte prostřednictvím poštovní sovy, kde také po cvičení najdete jejich zadání.
-
-O domácích úkolech můžete diskutovat s ostatními, ale své výsledné řešení musíte zformulovat samostatně vlastními slovy. Rozhodně mě prosím nenechávejte opravovat "vaše" řešení vygenerovaná umělou inteligencí, je to zbytečná ztráta jak mého, tak i vašeho času.
+Na získání zápočtu je potřeba celkem 100 bodů z celkového počtu 160 bodů. Body bude možné získat z písemek a domácích úkolů.
 
 ### Malé písemky
 
-Kromě domácích úkolů budeme na každém cvičení psát malou písemku za až 10 bodů. Celkem tedy bude možné získat 110 bodů z písemek.
+Na každém cvičení (kromě prvního) budeme psát malou písemku za až 10 bodů. Celkem tedy bude možné získat 110 bodů z písemek.
+
+### Domácí úkoly
+
+Bude zadáno celkem 12 domácích úkolů po 3-4 bodech. Celkem z úkolů bude možné získat 38 bodů. Termín odevzdání bude vždy do začátku dalšího cvičení. Domácí úkoly prosím odevzdávejte prostřednictvím poštovní sovy, kde také po cvičení najdete jejich zadání.
+
+O domácích úkolech můžete diskutovat s ostatními, ale své výsledné řešení musíte zformulovat samostatně vlastními slovy. Rozhodně mě prosím nenechávejte opravovat "vaše" řešení vygenerovaná umělou inteligencí, je to zbytečná ztráta jak mého, tak i vašeho času.
+
+
+### Aktivita
+
+Také bude možné získat až 12 bodů celkem za aktivitu během cvičení. Aktivitou je myšleno prezentování řešení nějaké úlohy u tabule. Za jedno cvičení můžete takto získat maximálně jeden bod.
 
 ### Bonusový domácí úkol
 
