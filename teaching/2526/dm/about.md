@@ -34,7 +34,7 @@ Pokud budete mít alespoň 80 bodů a stále vám do zápočtu budou nějaké bo
 
 ## Náplň cvičení
 
-- [29.09.2025] (0) [cv1.pdf](/teaching/2526/dm/cv1.pdf)
+- [29.09.2025] (0) [cv0.pdf](/teaching/2526/dm/cv0.pdf) ([řešení](/teaching/2526/dm/res0.pdf))
 - [06.10.2025] (1)
 - [13.10.2025] (2)
 - [20.10.2025] (3)
