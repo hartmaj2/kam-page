@@ -32,21 +32,25 @@ Také bude možné získat až 12 bodů celkem za aktivitu během cvičení. Akt
 
 Pokud budete mít alespoň 80 bodů a stále vám do zápočtu budou nějaké body chybět, můžete si je doplnit bonusovým domácím úkolem, který bude zadán před Vánoci.
 
+## Konzultace
+
+V případě zájmu nabízím dovysvětlení probírané látky. Napište mi mail a domluvíme se.
+
 ## Náplň cvičení
 
 - [29.09.2025] (0) [cv0.pdf](/teaching/2526/dm/cv0.pdf) ([řešení](/teaching/2526/dm/res0.pdf))
-- [06.10.2025] (1)
-- [13.10.2025] (2)
-- [20.10.2025] (3)
-- [27.10.2025] (4)
-- [03.11.2025] (5)
-- [10.11.2025] (6)
-- [17.11.2025] (Cvičení se nekoná, běžte si zacvičit do přírody.) Šťastný [den studentů](https://cs.wikipedia.org/wiki/Den_boje_za_svobodu_a_demokracii_a_Mezin%C3%A1rodn%C3%AD_den_studentstva)!
-- [24.11.2025] (7)
-- [01.12.2025] (8)
-- [08.12.2025] (9)
-- [15.12.2025] (10)
-- [05.01.2026] (11)
+<!-- - [06.10.2025] (1) -->
+<!-- - [13.10.2025] (2) -->
+<!-- - [20.10.2025] (3) -->
+<!-- - [27.10.2025] (4) -->
+<!-- - [03.11.2025] (5) -->
+<!-- - [10.11.2025] (6) -->
+<!-- - [17.11.2025] (Cvičení se nekoná, běžte si zacvičit do přírody.) Šťastný [den studentů](https://cs.wikipedia.org/wiki/Den_boje_za_svobodu_a_demokracii_a_Mezin%C3%A1rodn%C3%AD_den_studentstva)! -->
+<!-- - [24.11.2025] (7) -->
+<!-- - [01.12.2025] (8) -->
+<!-- - [08.12.2025] (9) -->
+<!-- - [15.12.2025] (10) -->
+<!-- - [05.01.2026] (11) -->
 
 ## Užitečné odkazy
 
