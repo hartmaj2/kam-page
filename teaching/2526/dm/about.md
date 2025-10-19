@@ -41,7 +41,7 @@ V případě zájmu nabízím dovysvětlení probírané látky. Napište mi mai
 - [29.09.2025] (0) [cv0.pdf](/teaching/2526/dm/cv0.pdf) ([řešení](/teaching/2526/dm/res0.pdf))
 - [06.10.2025] (1) [cv1.pdf](/teaching/2526/dm/cv1.pdf) ([řešení](/teaching/2526/dm/res1.pdf))
 - [13.10.2025] (2) [cv2.pdf](/teaching/2526/dm/cv2.pdf)
-<!-- - [20.10.2025] (3) -->
+- [20.10.2025] (3) [cv3.pdf](/teaching/2526/dm/cv3.pdf)
 <!-- - [27.10.2025] (4) -->
 <!-- - [03.11.2025] (5) -->
 <!-- - [10.11.2025] (6) -->
