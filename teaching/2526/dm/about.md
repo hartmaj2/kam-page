@@ -56,5 +56,4 @@ V případě zájmu nabízím dovysvětlení probírané látky. Napište mi mai
 
 - Stránky přednášejícího [Ondřeje Pangráce](https://iuuk.mff.cuni.cz/~pangrac/)
 - [Sbírka pěkných úloh](http://matematika.reseneulohy.cz/cs/matematika/kombinatorika) (hodí se jako trénink na zkoušku)
-- [Myšlenková mapa](https://orgpad.info/s/V1BG44_Qy4l) probíraných témat vytvořená v OrgPadu
 - [Videozáznamy](https://mj.ucw.cz/vyuka/2223/dm/) z nádherné přednášky Martina Mareše z let 22/23
