@@ -47,7 +47,7 @@ V případě zájmu nabízím dovysvětlení probírané látky. Napište mi mai
 - [10.11.2025] (6) [cv6.pdf](/teaching/2526/dm/cv6.pdf)
 - [17.11.2025] (7) [cv7.pdf](/teaching/2526/dm/cv7.pdf) (**Cvičení se nekoná!**) Šťastný [den studentů](https://cs.wikipedia.org/wiki/Den_boje_za_svobodu_a_demokracii_a_Mezin%C3%A1rodn%C3%AD_den_studentstva)!
 - [24.11.2025] (8) [cv8.pdf](/teaching/2526/dm/cv8.pdf)
-<!-- - [01.12.2025] (9) -->
+- [01.12.2025] (9) [cv9.pdf](/teaching/2526/dm/cv9.pdf)
 <!-- - [08.12.2025] (10) -->
 <!-- - [15.12.2025] (11) -->
 <!-- - [05.01.2026] (12) -->
