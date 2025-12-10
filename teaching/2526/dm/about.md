@@ -38,17 +38,17 @@ V případě zájmu nabízím dovysvětlení probírané látky. Napište mi mai
 
 ## Náplň cvičení
 
-- [29.09.2025] (0) [cv0.pdf](/teaching/2526/dm/cv0.pdf) ([řešení](/teaching/2526/dm/res0.pdf))
-- [06.10.2025] (1) [cv1.pdf](/teaching/2526/dm/cv1.pdf) ([řešení](/teaching/2526/dm/res1.pdf))
-- [13.10.2025] (2) [cv2.pdf](/teaching/2526/dm/cv2.pdf)
-- [20.10.2025] (3) [cv3.pdf](/teaching/2526/dm/cv3.pdf)
-- [27.10.2025] (4) [cv4.pdf](/teaching/2526/dm/cv4.pdf) ([řešení](/teaching/2526/dm/res4.pdf))
-- [03.11.2025] (5) [cv5.pdf](/teaching/2526/dm/cv5.pdf)
-- [10.11.2025] (6) [cv6.pdf](/teaching/2526/dm/cv6.pdf)
-- [17.11.2025] (7) [cv7.pdf](/teaching/2526/dm/cv7.pdf) (**Cvičení se nekoná!**) Šťastný [den studentů](https://cs.wikipedia.org/wiki/Den_boje_za_svobodu_a_demokracii_a_Mezin%C3%A1rodn%C3%AD_den_studentstva)!
-- [24.11.2025] (8) [cv8.pdf](/teaching/2526/dm/cv8.pdf)
-- [01.12.2025] (9) [cv9.pdf](/teaching/2526/dm/cv9.pdf)
-- [08.12.2025] (10) [cv10.pdf](/teaching/2526/dm/cv10.pdf)
+- [29.09.2025] (0) [cv0.pdf](/teaching/2526/dm/cv/cv0.pdf) ([řešení](/teaching/2526/dm/res/res0.pdf))
+- [06.10.2025] (1) [cv1.pdf](/teaching/2526/dm/cv/cv1.pdf) ([řešení](/teaching/2526/dm/res/res1.pdf))
+- [13.10.2025] (2) [cv2.pdf](/teaching/2526/dm/cv/cv2.pdf)
+- [20.10.2025] (3) [cv3.pdf](/teaching/2526/dm/cv/cv3.pdf)
+- [27.10.2025] (4) [cv4.pdf](/teaching/2526/dm/cv/cv4.pdf) ([řešení](/teaching/2526/dm/res/res4.pdf))
+- [03.11.2025] (5) [cv5.pdf](/teaching/2526/dm/cv/cv5.pdf)
+- [10.11.2025] (6) [cv6.pdf](/teaching/2526/dm/cv/cv6.pdf)
+- [17.11.2025] (7) [cv7.pdf](/teaching/2526/dm/cv/cv7.pdf) (**Cvičení se nekoná!**) Šťastný [den studentů](https://cs.wikipedia.org/wiki/Den_boje_za_svobodu_a_demokracii_a_Mezin%C3%A1rodn%C3%AD_den_studentstva)!
+- [24.11.2025] (8) [cv8.pdf](/teaching/2526/dm/cv/cv8.pdf)
+- [01.12.2025] (9) [cv9.pdf](/teaching/2526/dm/cv/cv9.pdf)
+- [08.12.2025] (10) [cv10.pdf](/teaching/2526/dm/cv/cv10.pdf)
 <!-- - [15.12.2025] (11) -->
 <!-- - [05.01.2026] (12) -->
 
