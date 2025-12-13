@@ -49,7 +49,7 @@ V případě zájmu nabízím dovysvětlení probírané látky. Napište mi mai
 - [24.11.2025] (8) [cv8.pdf](/teaching/2526/dm/cv/cv8.pdf)
 - [01.12.2025] (9) [cv9.pdf](/teaching/2526/dm/cv/cv9.pdf)
 - [08.12.2025] (10) [cv10.pdf](/teaching/2526/dm/cv/cv10.pdf)
-<!-- - [15.12.2025] (11) -->
+- [15.12.2025] (11) [cv11.pdf](/teaching/2526/dm/cv/cv11.pdf)
 <!-- - [05.01.2026] (12) -->
 
 ## Užitečné odkazy
