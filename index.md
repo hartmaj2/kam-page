@@ -25,9 +25,7 @@ title: Domovská stránka
     <img src="/img/profile.jpg" style="width:30%;height:30%;border-radius: 20%;">
 </div>
 
-
-
 ## Kontakt
 
-email: [janek.hartman@gmail.com](mailto:janek.hartman@gmail.com)
+email: [hartmaj@kam.mff.cuni.cz](mailto:hartmaj@kam.mff.cuni.cz)
 
