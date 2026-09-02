@@ -10,3 +10,7 @@ in-sections: true
 
 - cvičení [Diskrétní matematika](/teaching/2526/dm/about.html)
 
+## Zimní semestr 2026/2027
+
+- cvičení [Lineární algebra](/teaching/2627/la/about.html)
+
