@@ -8,7 +8,7 @@ in-sections: true
 
 ## Zimní semestr 2026/2027
 
-- cvičení [Lineární algebra](/teaching/2627/la/about.html)
+- cvičení [Lineární algebra 1](/teaching/2627/la1/about.html)
 
 ## Zimní semestr 2025/2026
 
