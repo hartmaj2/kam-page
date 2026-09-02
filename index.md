@@ -13,7 +13,7 @@ title: Domovská stránka
             Jsem studentem druhého ročníku magisterského oboru Diskrétní modely a algoritmy. 
         </p>
         <p>
-            V zimním semestru budu vyučovat cvičení z <a href="/teaching/2627/la/about.html"> lineární algebry</a>.
+            V zimním semestru budu vyučovat cvičení z <a href="/teaching/2627/la1/about.html"> lineární algebry</a>.
         </p>
         <p>
             Ve volném čase se věnuji lezení jak na laně, tak i na boulderu. Kromě toho rád plavu, cvičím a občas si rád zatančím.
