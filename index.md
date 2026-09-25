@@ -3,7 +3,7 @@ layout: default
 title: Domovská stránka
 ---
 
-# {{ page.title }}
+# Jan Hartman
 
 ## O mně
 
