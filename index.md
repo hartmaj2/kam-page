@@ -3,29 +3,35 @@ layout: default
 title: Domovská stránka
 ---
 
-# Jan Hartman
-
-## O mně
-
 <div class="intro-section">
-    <div>
+    <img class="profile" src="/img/profile.jpg" alt="Jan Hartman">
+    <div class="intro-text">
+        <h1>Jan Hartman</h1>
         <p>
-            Jsem student druhého ročníku magisterského oboru Diskrétní modely a algoritmy. 
+            Jsem student druhého ročníku magisterského oboru <em>Diskrétní modely a algoritmy</em> na MFF UK.
         </p>
         <p>
-            V zimním semestru budu vyučovat cvičení z <a href="/teaching/2627/la1/about.html"> lineární algebry</a>.
-        </p>
-        <p>
-            Ve volném čase se věnuji lezení jak na laně, tak i na boulderu. Kromě toho rád plavu, cvičím a občas si rád zatančím.
-        </p>
-        <p>
-            Také vedu kroužky programování pro děti v DDM v Újezdě nad Lesy.
+            Ve volném čase se věnuji lezení jak na laně, tak i na boulderu. Kromě toho rád plavu, cvičím a občas si rád zatančím. Také vedu kroužky programování pro děti v DDM v Újezdě nad Lesy.
         </p>
     </div>
-    <img src="/img/profile.jpg" style="width:30%;height:30%;border-radius: 20%;">
 </div>
+
+---
+
+## Výuka v tomto semestru
+
+- [Lineární algebra 1 – cvičení](/teaching/2627/la1/about.html)
+
+---
 
 ## Kontakt
 
-email: [hartmaj@kam.mff.cuni.cz](mailto:hartmaj@kam.mff.cuni.cz)
+E-mail
+: [hartmaj@kam.mff.cuni.cz](mailto:hartmaj@kam.mff.cuni.cz)
 
+Konzultace
+: po domluvě e-mailem
+
+Pracovna
+: multifunkční prostor a respirium Rotunda
+{: .facts}

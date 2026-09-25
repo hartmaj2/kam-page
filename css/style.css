@@ -59,7 +59,39 @@ blockquote {
 
 .intro-section {
   display: flex;
-  gap: 30%;
+  align-items: center;
+  gap: 2.5rem;
+  margin: 1.5em 0;
+}
+
+.intro-text > :first-child {
+  margin-top: 0;
+}
+
+.intro-text h1 {
+  margin-bottom: 0;
+}
+
+.intro-section img.profile {
+  flex-shrink: 0;
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 20%;
+  border: 1px solid #e5e5e5;
+}
+
+hr {
+  border: none;
+  border-top: 1px solid #e5e5e5;
+  margin: 2rem 0;
+}
+
+@media (max-width: 600px) {
+  .intro-section {
+    flex-direction: column;
+    text-align: center;
+  }
 }
 
 /* Table styling */
