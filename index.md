@@ -10,7 +10,7 @@ title: Domovská stránka
 <div class="intro-section">
     <div>
         <p>
-            Jsem studentem druhého ročníku magisterského oboru Diskrétní modely a algoritmy. 
+            Jsem student druhého ročníku magisterského oboru Diskrétní modely a algoritmy. 
         </p>
         <p>
             V zimním semestru budu vyučovat cvičení z <a href="/teaching/2627/la1/about.html"> lineární algebry</a>.
