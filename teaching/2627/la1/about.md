@@ -1,11 +1,19 @@
 ---
-title: Lineární algebra 1 2026/2027
+title: Lineární algebra 1 - cvičení
 layout: default
 ---
 
 # {{ page.title }}
 
-Cvičení probíhá každý pátek od 9:00 do 10:30 v Troji na Impaktu v místnosti N5. Patří k přednášce [prof. Milana Hladíka](https://kam.mff.cuni.cz/~hladik/LA1/).
+[NMAI057]() · zimní semestr 2026/27
+{: .subtitle}
+
+Kdy a kde
+: pátek · 9:00-10:30 · místnost N5 (v Troji na Impaktu)
+
+Přednáška
+: cvičení patří k přednášce [prof. Milana Hladíka](https://kam.mff.cuni.cz/~hladik/LA1/)
+{: .facts}
 
 Zadání domácích úkolů najdete v [poštovní sově](https://owl.mff.cuni.cz/). Kromě toho tam najdete i zadání příkladů ze cvičení a výsledky vašich testíků. Pro přihlášení do kurzu v sově použijete token, který vám předem pošlu mailem. Pokud ho z nějakého důvodu nemáte, napište e-mail vy mně.
 

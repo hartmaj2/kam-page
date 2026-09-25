@@ -93,3 +93,30 @@ tbody tr:nth-child(even) {
 }
 
 /* End of table styling */
+
+/* Rámeček s klíčovými údaji (kdy, kde, kdo) */
+.facts {
+  display: grid;
+  grid-template-columns: max-content 1fr;
+  gap: 0.35rem 1.25rem;
+  margin: 1.5em 0;
+  padding: 1rem 1.25rem;
+  background: #f4f4f4;
+  border-radius: 10px;
+  border: 1px solid #e5e5e5;
+}
+
+.facts dt {
+  color: black;
+  font-weight: bold;
+}
+
+.facts dd {
+  margin: 0;
+}
+
+/* Podnadpis pod hlavním nadpisem (kód předmětu, semestr) */
+.subtitle {
+  margin-top: -0.5em;
+  color: #777;
+}
