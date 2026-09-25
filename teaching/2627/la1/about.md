@@ -17,6 +17,8 @@ Přednáška
 
 Zadání domácích úkolů najdete v [poštovní sově](https://owl.mff.cuni.cz/). Kromě toho tam najdete i zadání příkladů ze cvičení a výsledky vašich testíků. Pro přihlášení do kurzu v sově použijete token, který vám předem pošlu mailem. Pokud ho z nějakého důvodu nemáte, napište e-mail vy mně.
 
+---
+
 ## Náplň cvičení
 
 | # | datum | téma | materiály |
@@ -46,6 +48,8 @@ Zadání domácích úkolů najdete v [poštovní sově](https://owl.mff.cuni.cz
 <!-- - [18.12.2026] (12) [cv12.pdf](/teaching/2627/la1/cv/cv12.pdf) -->
 
 <!-- - [08.01.2027] (13) [cv13.pdf](/teaching/2627/la1/cv/cv13.pdf) -->
+
+---
 
 ## Podmínky k zápočtu
 
@@ -79,10 +83,13 @@ Nejzábavnější způsob, kterým si můžete nasbírat body, je aktivita na cv
 
 Studenti, kteří do konce výuky získají alespoň 80 bodů, si mohou doplnit potřebné body splněním dodatečných úkolů nebo písemek dle konkrétní situace.
 
+---
+
 ## Konzultace
 
 V případě zájmu nabízím dovysvětlení probírané látky. Napište mi e-mail a domluvíme se.
 
+---
 
 ## Užitečné odkazy
 
