@@ -1,4 +1,5 @@
-<nav> 
+<nav>
+  <div class="nav-inner">
     {% assign homepage = site.pages | where: "url", "/" | first %}
     <a href="/" {% if page.url == "/" %} class="active" {% endif %}> {{ homepage.title }} </a>
     {% for iter_page in site.pages %}
@@ -6,4 +7,5 @@
             <a href="{{ iter_page.url }}" {% if iter_page.url == page.url %} class="active" {% endif %}> {{ iter_page.title }} </a>
         {% endif %}
     {% endfor %}
+  </div>
 </nav>

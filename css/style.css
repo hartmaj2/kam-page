@@ -3,14 +3,15 @@
 }
 
 
-a.active {
-  background-color: lightgray;
+nav {
+  border-bottom: 1px solid #ddd;
+  margin-bottom: 28px;
 }
 
-nav {
-  background-color: #eee;
-  padding: 5px 2px;
-  border-radius: 10px;
+.nav-inner {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 10px 20px;
 }
 
 nav a {
@@ -22,6 +23,12 @@ nav a {
 
 nav a:hover{
   color: var(--highlight-color);
+}
+
+nav a.active {
+  color: var(--highlight-color);
+  border-bottom: 2px solid var(--highlight-color);
+  border-radius: 0;
 }
 
 .container {
