@@ -54,3 +54,47 @@ blockquote {
   display: flex;
   gap: 30%;
 }
+
+/* Table styling */
+
+table {
+  border-collapse: separate;
+  border-spacing: 0;
+  margin: 1.5em 0;
+  width: 100%;
+  font-size: 0.95em;
+  border-radius: 10px;
+  overflow: hidden;
+  border: 1px solid #e5e5e5;
+}
+
+th,
+td {
+  padding: 8px 14px;
+  text-align: center;
+  border-bottom: 1px solid #ddd;
+  border-right: 1px solid #eee;
+}
+
+th:last-child,
+td:last-child {
+  border-right: none;
+}
+
+thead th {
+  background-color: #dde1c2;
+  border-bottom: 2px solid var(--highlight-color);
+  color: #333;
+  font-weight: 600;
+}
+
+tbody tr:nth-child(even) {
+  background-color: #f4f4f4;
+}
+
+tbody tr:last-child {
+  font-weight: 600;
+  border-top: 2px solid var(--highlight-color);
+}
+
+/* End of table styling */
