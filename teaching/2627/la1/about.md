@@ -5,7 +5,7 @@ layout: default
 
 # {{ page.title }}
 
-[NMAI057]() · zimní semestr 2026/27
+[NMAI057](https://is.cuni.cz/studium/predmety/index.php?do=predmet&kod=NMAI057) · zimní semestr 2026/27
 {: .subtitle}
 
 Kdy a kde
