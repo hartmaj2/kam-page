@@ -21,33 +21,33 @@ Zadání domácích úkolů najdete v [poštovní sově](https://owl.mff.cuni.cz
 
 ## Náplň cvičení
 
-| # | datum | téma | materiály |
-| - | - | - | - |
-| 1 | 2.10.2026 | Analytická geometrie, soustavy lineárních rovnic| [cv1.pdf](/teaching/2627/la1/cv/cv1.pdf) |
+| #   | datum     | téma                                             | materiály                                |
+| --- | --------- | ------------------------------------------------ | ---------------------------------------- |
+| 1   | 2.10.2026 | Analytická geometrie, soustavy lineárních rovnic | [cv1.pdf](/teaching/2627/la1/cv/cv1.pdf) |
 
-<!-- - [09.10.2026] (2) [cv2.pdf](/teaching/2627/la1/cv/cv2.pdf) -->
+<!-- | 2   | 9.10.2026  |                                                  | [cv2.pdf](/teaching/2627/la1/cv/cv2.pdf)   | -->
 
-<!-- - [16.10.2026] (3) [cv3.pdf](/teaching/2627/la1/cv/cv3.pdf) -->
+<!-- | 3   | 16.10.2026 |                                                  | [cv3.pdf](/teaching/2627/la1/cv/cv3.pdf)   | -->
 
-<!-- - [23.10.2026] (4) [cv4.pdf](/teaching/2627/la1/cv/cv4.pdf) -->
+<!-- | 4   | 23.10.2026 |                                                  | [cv4.pdf](/teaching/2627/la1/cv/cv4.pdf)   | -->
 
-<!-- - [30.10.2026] (5) [cv5.pdf](/teaching/2627/la1/cv/cv5.pdf) -->
+<!-- | 5   | 30.10.2026 |                                                  | [cv5.pdf](/teaching/2627/la1/cv/cv5.pdf)   | -->
 
-<!-- - [06.11.2026] (6) [cv6.pdf](/teaching/2627/la1/cv/cv6.pdf) -->
+<!-- | 6   | 6.11.2026  |                                                  | [cv6.pdf](/teaching/2627/la1/cv/cv6.pdf)   | -->
 
-<!-- - [13.11.2026] (7) [cv7.pdf](/teaching/2627/la1/cv/cv7.pdf) -->
+<!-- | 7   | 13.11.2026 |                                                  | [cv7.pdf](/teaching/2627/la1/cv/cv7.pdf)   | -->
 
-<!-- - [20.11.2026] (8) [cv8.pdf](/teaching/2627/la1/cv/cv8.pdf) -->
+<!-- | 8   | 20.11.2026 |                                                  | [cv8.pdf](/teaching/2627/la1/cv/cv8.pdf)   | -->
 
-<!-- - [27.11.2026] (9) [cv9.pdf](/teaching/2627/la1/cv/cv9.pdf) -->
+<!-- | 9   | 27.11.2026 |                                                  | [cv9.pdf](/teaching/2627/la1/cv/cv9.pdf)   | -->
 
-<!-- - [04.12.2026] (10) [cv10.pdf](/teaching/2627/la1/cv/cv10.pdf) -->
+<!-- | 10  | 4.12.2026  |                                                  | [cv10.pdf](/teaching/2627/la1/cv/cv10.pdf) | -->
 
-<!-- - [11.12.2026] (11) [cv11.pdf](/teaching/2627/la1/cv/cv11.pdf) -->
+<!-- | 11  | 11.12.2026 |                                                  | [cv11.pdf](/teaching/2627/la1/cv/cv11.pdf) | -->
 
-<!-- - [18.12.2026] (12) [cv12.pdf](/teaching/2627/la1/cv/cv12.pdf) -->
+<!-- | 12  | 18.12.2026 |                                                  | [cv12.pdf](/teaching/2627/la1/cv/cv12.pdf) | -->
 
-<!-- - [08.01.2027] (13) [cv13.pdf](/teaching/2627/la1/cv/cv13.pdf) -->
+<!-- | 13  | 8.1.2027   |                                                  | [cv13.pdf](/teaching/2627/la1/cv/cv13.pdf) | -->
 
 ---
 
