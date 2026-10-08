@@ -21,11 +21,10 @@ Zadání domácích úkolů najdete v [poštovní sově](https://owl.mff.cuni.cz
 
 ## Náplň cvičení
 
-| #   | datum     | téma                                             | materiály                                |
-| --- | --------- | ------------------------------------------------ | ---------------------------------------- |
-| 1   | 2.10.2026 | Analytická geometrie, soustavy lineárních rovnic | [cv1.pdf](/teaching/2627/la1/cv/cv1.pdf) |
-
-<!-- | 2   | 9.10.2026  |                                                  | [cv2.pdf](/teaching/2627/la1/cv/cv2.pdf)   | -->
+| #   | datum     | téma                                                          | materiály                                |
+| --- | --------- | ------------------------------------------------------------- | ---------------------------------------- |
+| 1   | 2.10.2026 | Analytická geometrie, soustavy lineárních rovnic              | [cv1.pdf](/teaching/2627/la1/cv/cv1.pdf) |
+| 2   | 9.10.2026 | Zpětná substituce, RREF, maticové operace a jejich vlastnosti | [cv2.pdf](/teaching/2627/la1/cv/cv2.pdf) |
 
 <!-- | 3   | 16.10.2026 |                                                  | [cv3.pdf](/teaching/2627/la1/cv/cv3.pdf)   | -->
 
