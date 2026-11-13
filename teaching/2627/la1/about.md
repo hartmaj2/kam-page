@@ -28,21 +28,8 @@ Zadání domácích úkolů najdete v [poštovní sově](https://owl.mff.cuni.cz
 | 3   | 16.10.2026 | Lineární zobrazení, regulární matice a inverzní matice        | [cv3.pdf](/teaching/2627/la1/cv/cv3.pdf) | [EoLA: Ch. 3](https://www.youtube.com/watch?v=kYB8IZa5AuE&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=3) |
 | 4   | 23.10.2026 | Grupy, permutace a grupa permutací                            | [cv4.pdf](/teaching/2627/la1/cv/cv4.pdf) | [3B1B: Group theory](https://www.youtube.com/watch?v=mH0oCDa74tE)                                          |
 | 5   | 30.10.2026 | Permutace a grupa permutací                                   | [cv5.pdf](/teaching/2627/la1/cv/cv5.pdf) |                                                                                                            |
-| 6   | 6.11.2026  | Tělesa                                                        | [cv6.pdf](/teaching/2627/la1/cv/cv6.pdf) |                                                                                                            |
+| 6   | 13.11.2026  | Tělesa                                                       | [cv6.pdf](/teaching/2627/la1/cv/cv6.pdf) |                                                                                                            |
 
-<!-- | 7   | 13.11.2026 |                                                  | [cv7.pdf](/teaching/2627/la1/cv/cv7.pdf)   | -->
-
-<!-- | 8   | 20.11.2026 |                                                  | [cv8.pdf](/teaching/2627/la1/cv/cv8.pdf)   | -->
-
-<!-- | 9   | 27.11.2026 |                                                  | [cv9.pdf](/teaching/2627/la1/cv/cv9.pdf)   | -->
-
-<!-- | 10  | 4.12.2026  |                                                  | [cv10.pdf](/teaching/2627/la1/cv/cv10.pdf) | -->
-
-<!-- | 11  | 11.12.2026 |                                                  | [cv11.pdf](/teaching/2627/la1/cv/cv11.pdf) | -->
-
-<!-- | 12  | 18.12.2026 |                                                  | [cv12.pdf](/teaching/2627/la1/cv/cv12.pdf) | -->
-
-<!-- | 13  | 8.1.2027   |                                                  | [cv13.pdf](/teaching/2627/la1/cv/cv13.pdf) | -->
 
 ---
 
