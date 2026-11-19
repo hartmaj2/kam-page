@@ -29,6 +29,7 @@ Zadání domácích úkolů najdete v [poštovní sově](https://owl.mff.cuni.cz
 | 4   | 23.10.2026 | Grupy, permutace a grupa permutací                            | [cv4.pdf](/teaching/2627/la1/cv/cv4.pdf) | [3B1B: Group theory](https://www.youtube.com/watch?v=mH0oCDa74tE)                                          |
 | 5   | 30.10.2026 | Permutace a grupa permutací                                   | [cv5.pdf](/teaching/2627/la1/cv/cv5.pdf) |                                                                                                            |
 | 6   | 13.11.2026  | Tělesa                                                       | [cv6.pdf](/teaching/2627/la1/cv/cv6.pdf) |                                                                                                            |
+| 7   | 20.11.2026  | Vektorové prostory, lineární obal, lineární kombinace        | [cv7.pdf](/teaching/2627/la1/cv/cv7.pdf) |                                                                                                            |
 
 
 ---
